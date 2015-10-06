@@ -1,0 +1,9 @@
+D:\ProJect\Bulbulator\Bulbulator\bin\Debug\Bulbulator.exe.config
+D:\ProJect\Bulbulator\Bulbulator\bin\Debug\Bulbulator.exe
+D:\ProJect\Bulbulator\Bulbulator\bin\Debug\Bulbulator.pdb
+D:\ProJect\Bulbulator\Bulbulator\obj\Debug\Bulbulator.csprojResolveAssemblyReference.cache
+D:\ProJect\Bulbulator\Bulbulator\obj\Debug\Bulbulator.Form1.resources
+D:\ProJect\Bulbulator\Bulbulator\obj\Debug\Bulbulator.Properties.Resources.resources
+D:\ProJect\Bulbulator\Bulbulator\obj\Debug\Bulbulator.csproj.GenerateResource.Cache
+D:\ProJect\Bulbulator\Bulbulator\obj\Debug\Bulbulator.exe
+D:\ProJect\Bulbulator\Bulbulator\obj\Debug\Bulbulator.pdb
