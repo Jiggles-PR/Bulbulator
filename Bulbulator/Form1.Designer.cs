@@ -56,6 +56,9 @@
             this.label2 = new System.Windows.Forms.Label();
             this.pictureBox1 = new System.Windows.Forms.PictureBox();
             this.button15 = new System.Windows.Forms.Button();
+            this.button16 = new System.Windows.Forms.Button();
+            this.button17 = new System.Windows.Forms.Button();
+            this.button18 = new System.Windows.Forms.Button();
             this.menuStrip1.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
             this.SuspendLayout();
@@ -309,14 +312,44 @@
             this.button15.Name = "button15";
             this.button15.Size = new System.Drawing.Size(63, 50);
             this.button15.TabIndex = 24;
-            this.button15.Text = "button15";
+            this.button15.Text = "+";
             this.button15.UseVisualStyleBackColor = true;
+            // 
+            // button16
+            // 
+            this.button16.Location = new System.Drawing.Point(244, 130);
+            this.button16.Name = "button16";
+            this.button16.Size = new System.Drawing.Size(65, 54);
+            this.button16.TabIndex = 25;
+            this.button16.Text = "-";
+            this.button16.UseVisualStyleBackColor = true;
+            // 
+            // button17
+            // 
+            this.button17.Location = new System.Drawing.Point(244, 190);
+            this.button17.Name = "button17";
+            this.button17.Size = new System.Drawing.Size(65, 51);
+            this.button17.TabIndex = 26;
+            this.button17.Text = "*";
+            this.button17.UseVisualStyleBackColor = true;
+            // 
+            // button18
+            // 
+            this.button18.Location = new System.Drawing.Point(244, 247);
+            this.button18.Name = "button18";
+            this.button18.Size = new System.Drawing.Size(65, 51);
+            this.button18.TabIndex = 27;
+            this.button18.Text = "/";
+            this.button18.UseVisualStyleBackColor = true;
             // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(859, 304);
+            this.Controls.Add(this.button18);
+            this.Controls.Add(this.button17);
+            this.Controls.Add(this.button16);
             this.Controls.Add(this.button15);
             this.Controls.Add(this.pictureBox1);
             this.Controls.Add(this.label2);
@@ -379,6 +412,9 @@
         private System.Windows.Forms.Label label2;
         private System.Windows.Forms.PictureBox pictureBox1;
         private System.Windows.Forms.Button button15;
+        private System.Windows.Forms.Button button16;
+        private System.Windows.Forms.Button button17;
+        private System.Windows.Forms.Button button18;
     }
 }
 
