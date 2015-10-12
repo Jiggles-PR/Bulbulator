@@ -55,6 +55,7 @@
             this.radioButton2 = new System.Windows.Forms.RadioButton();
             this.label2 = new System.Windows.Forms.Label();
             this.pictureBox1 = new System.Windows.Forms.PictureBox();
+            this.button15 = new System.Windows.Forms.Button();
             this.menuStrip1.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
             this.SuspendLayout();
@@ -233,7 +234,7 @@
             // 
             // button12
             // 
-            this.button12.Location = new System.Drawing.Point(333, 100);
+            this.button12.Location = new System.Drawing.Point(391, 100);
             this.button12.Name = "button12";
             this.button12.Size = new System.Drawing.Size(65, 51);
             this.button12.TabIndex = 14;
@@ -242,7 +243,7 @@
             // 
             // button13
             // 
-            this.button13.Location = new System.Drawing.Point(404, 100);
+            this.button13.Location = new System.Drawing.Point(462, 100);
             this.button13.Name = "button13";
             this.button13.Size = new System.Drawing.Size(65, 51);
             this.button13.TabIndex = 15;
@@ -251,7 +252,7 @@
             // 
             // button14
             // 
-            this.button14.Location = new System.Drawing.Point(475, 100);
+            this.button14.Location = new System.Drawing.Point(533, 100);
             this.button14.Name = "button14";
             this.button14.Size = new System.Drawing.Size(65, 51);
             this.button14.TabIndex = 16;
@@ -262,7 +263,7 @@
             // 
             this.radioButton1.AutoSize = true;
             this.radioButton1.Checked = true;
-            this.radioButton1.Location = new System.Drawing.Point(243, 93);
+            this.radioButton1.Location = new System.Drawing.Point(346, 110);
             this.radioButton1.Name = "radioButton1";
             this.radioButton1.Size = new System.Drawing.Size(39, 17);
             this.radioButton1.TabIndex = 20;
@@ -274,7 +275,7 @@
             // radioButton2
             // 
             this.radioButton2.AutoSize = true;
-            this.radioButton2.Location = new System.Drawing.Point(243, 134);
+            this.radioButton2.Location = new System.Drawing.Point(335, 133);
             this.radioButton2.Name = "radioButton2";
             this.radioButton2.Size = new System.Drawing.Size(50, 17);
             this.radioButton2.TabIndex = 21;
@@ -285,7 +286,7 @@
             // label2
             // 
             this.label2.AutoSize = true;
-            this.label2.Location = new System.Drawing.Point(418, 77);
+            this.label2.Location = new System.Drawing.Point(488, 84);
             this.label2.Name = "label2";
             this.label2.Size = new System.Drawing.Size(21, 13);
             this.label2.TabIndex = 22;
@@ -302,11 +303,21 @@
             this.pictureBox1.TabStop = false;
             this.pictureBox1.Click += new System.EventHandler(this.pictureBox1_Click);
             // 
+            // button15
+            // 
+            this.button15.Location = new System.Drawing.Point(243, 77);
+            this.button15.Name = "button15";
+            this.button15.Size = new System.Drawing.Size(63, 50);
+            this.button15.TabIndex = 24;
+            this.button15.Text = "button15";
+            this.button15.UseVisualStyleBackColor = true;
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(859, 304);
+            this.Controls.Add(this.button15);
             this.Controls.Add(this.pictureBox1);
             this.Controls.Add(this.label2);
             this.Controls.Add(this.radioButton2);
@@ -367,6 +378,7 @@
         private System.Windows.Forms.RadioButton radioButton2;
         private System.Windows.Forms.Label label2;
         private System.Windows.Forms.PictureBox pictureBox1;
+        private System.Windows.Forms.Button button15;
     }
 }
 
