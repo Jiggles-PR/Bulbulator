@@ -7,3 +7,6 @@ D:\ProJect\Bulbulator\Bulbulator\obj\Debug\Bulbulator.Properties.Resources.resou
 D:\ProJect\Bulbulator\Bulbulator\obj\Debug\Bulbulator.csproj.GenerateResource.Cache
 D:\ProJect\Bulbulator\Bulbulator\obj\Debug\Bulbulator.exe
 D:\ProJect\Bulbulator\Bulbulator\obj\Debug\Bulbulator.pdb
+d:\Repos\Bulbulator\Bulbulator\bin\Debug\Bulbulator.exe.config
+d:\Repos\Bulbulator\Bulbulator\obj\Debug\Bulbulator.exe
+d:\Repos\Bulbulator\Bulbulator\obj\Debug\Bulbulator.pdb
