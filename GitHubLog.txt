@@ -1,0 +1,374 @@
+2015-11-09 14:32:18.2962|INFO|thread:32|AsyncReaderWriterLock|Released concurrent scheduler for operation: 49 at RepositoryViewModel.cs:325 after blocking 0.0049187s
+2015-11-09 14:31:01.7589|INFO|thread: 1|CommandLineHandler|Parsing command line arguments:
+2015-11-09 14:31:01.7799|INFO|thread: 1|CommandLineHandler|Unprocessed args: 
+2015-11-09 14:31:01.7799|INFO|thread: 1|AppInstance|Starting up as master instance of GitHub Desktop
+2015-11-09 14:31:01.7939|INFO|thread: 4|StartupLogging| #########################################
+2015-11-09 14:31:01.7939|INFO|thread: 4|StartupLogging| GitHub Desktop started. VERSION: 3.0.7.1
+2015-11-09 14:31:01.7939|INFO|thread: 4|StartupLogging| Build version: 3397ae47e4f173267a1ba9c8e6c39d345d5e5fbc
+2015-11-09 14:31:01.7939|INFO|thread: 4|StartupLogging| ***************************************
+2015-11-09 14:31:01.7939|INFO|thread: 4|StartupLogging| ***                                 ***
+2015-11-09 14:31:01.7939|INFO|thread: 4|StartupLogging| ***                                 ***
+2015-11-09 14:31:01.7939|INFO|thread: 4|StartupLogging| ***        Have a problem?          ***
+2015-11-09 14:31:01.7939|INFO|thread: 4|StartupLogging| ***    Email support@github.com     ***
+2015-11-09 14:31:01.7939|INFO|thread: 4|StartupLogging| ***      and include this file      ***
+2015-11-09 14:31:01.7939|INFO|thread: 4|StartupLogging| ***                                 ***
+2015-11-09 14:31:01.7939|INFO|thread: 4|StartupLogging| ***                                 ***
+2015-11-09 14:31:01.7939|INFO|thread: 4|StartupLogging| ***************************************
+2015-11-09 14:31:01.7939|INFO|thread: 4|StartupLogging| OS Version: Windows 7 Service Pack 1 6.1.7601.65536 amd64
+2015-11-09 14:31:01.7939|INFO|thread: 4|StartupLogging| CLR Version: 4.0.30319.34209
+2015-11-09 14:31:01.7939|INFO|thread: 4|StartupLogging| Current culture: ru-RU
+2015-11-09 14:31:01.7939|INFO|thread: 4|StartupLogging| Environment.CurrentDirectory: C:\Users\Alan\AppData\Local\Apps\2.0\2NABO2ZE.3AC\NTXZHH3J.VLB\gith..tion_317444273a93ac29_0003.0000_12384c781d7f8ad4
+2015-11-09 14:31:01.7939|INFO|thread: 4|StartupLogging| currentProcess.StartInfo.WorkingDirectory: 
+2015-11-09 14:31:01.7939|INFO|thread: 4|StartupLogging| Terminal Services session: no
+2015-11-09 14:31:01.7939|INFO|thread: 4|StartupLogging| Location: C:\Users\Alan\AppData\Local\Apps\2.0\2NABO2ZE.3AC\NTXZHH3J.VLB\gith..tion_317444273a93ac29_0003.0000_12384c781d7f8ad4\GitHub.exe
+2015-11-09 14:31:01.7939|INFO|thread: 4|StartupLogging| ActivationUri: https://github-windows.s3.amazonaws.com/GitHub.application
+2015-11-09 14:31:01.7939|INFO|thread: 4|StartupLogging| System.Environment.CommandLine: C:\Users\Alan\AppData\Local\Apps\2.0\2NABO2ZE.3AC\NTXZHH3J.VLB\gith..tion_317444273a93ac29_0003.0000_12384c781d7f8ad4\GitHub.exe
+2015-11-09 14:31:01.8219|INFO|thread: 4|GitEnvironment|Process set up with this SSH Agent info: 5524:/tmp/ssh-lJ8C7vj8XHRK/agent.5484
+2015-11-09 14:31:01.8219|INFO|thread: 4|GitEnvironment|PATH is C:\Users\Alan\AppData\Local\GitHub\PortableGit_c2ba306e536fdf878271f7fe636a147ff37326ad\cmd;C:\Users\Alan\AppData\Local\GitHub\PortableGit_c2ba306e536fdf878271f7fe636a147ff37326ad\bin;C:\Users\Alan\AppData\Local\Apps\2.0\2NABO2ZE.3AC\NTXZHH3J.VLB\gith..tion_317444273a93ac29_0003.0000_12384c781d7f8ad4;C:\Users\Alan\AppData\Local\GitHub\lfs-amd64_1.0.2;C:\Program Files (x86)\MSBuild\12.0\bin;C:\RailsInstaller\Git\cmd;C:\RailsInstaller\Ruby2.0.0\bin;C:\ProgramData\Oracle\Java\javapath;C:\PROGRA~2\Borland\CBUILD~1\Bin;C:\PROGRA~2\Borland\CBUILD~1\Projects\Bpl;C:\Program Files (x86)\AMD APP\bin\x86_64;C:\Program Files (x86)\AMD APP\bin\x86;C:\Program Files (x86)\Intel\iCLS Client\;C:\Program Files\Intel\iCLS Client\;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files (x86)\Intel\OpenCL SDK\3.0\bin\x86;C:\Program Files (x86)\Intel\OpenCL SDK\3.0\bin\x64;C:\Program Files (x86)\ATI Technologies\ATI.ACE\Core-Static;C:\Program Files (x86)\Borland\Delphi7\Bin;C:\Program Files (x86)\Borland\Delphi7\Projects\Bpl;C:\Program Files (x86)\Windows Kits\8.1\Windows Performance Toolkit\;C:\Program Files\Microsoft SQL Server\110\Tools\Binn\%JAVA_HOME%\bin;C:\Program Files (x86)\Skype\Phone\;C:\Program Files (x86)\MySQL\MySQL Fabric 1.5.4 & MySQL Utilities 1.5.4 1.5\;C:\Program Files (x86)\MySQL\MySQL Fabric 1.5.4 & MySQL Utilities 1.5.4 1.5\Doctrine extensions for PHP\;C:\Program Files (x86)\Microsoft SQL Server\100\Tools\Binn\;C:\Program Files\Microsoft SQL Server\100\Tools\Binn\;C:\Program Files\Microsoft SQL Server\100\DTS\Binn\;C:\Program Files (x86)\Microsoft SQL Server\100\Tools\Binn\VSShell\Common7\IDE\;C:\Program Files (x86)\Microsoft SQL Server\100\DTS\Binn\
+2015-11-09 14:31:01.8239|INFO|thread: 4|StartupLogging| =====================================================
+2015-11-09 14:31:01.8239|INFO|thread: 4|StartupLogging|  DIAGNOSTICS                                        |
+2015-11-09 14:31:01.8239|INFO|thread: 4|StartupLogging| =====================================================
+2015-11-09 14:31:01.8239|INFO|thread: 4|StartupLogging| Git Extracted: 'True:
+2015-11-09 14:31:01.8239|INFO|thread: 4|StartupLogging| PortableGit Dir Exists: 'C:\Users\Alan\AppData\Local\GitHub\PortableGit_c2ba306e536fdf878271f7fe636a147ff37326ad'
+2015-11-09 14:31:01.8239|INFO|thread: 1|HardwareRenderingHelper|Your video card appears to support hardware rendering. If this isn't the case and you see glitches
+2015-11-09 14:31:01.8239|INFO|thread: 1|HardwareRenderingHelper|set the GH_FORCE_SW_RENDERING environment variable to 1
+2015-11-09 14:31:01.8239|INFO|thread: 4|StartupLogging| Git Executable Exists: 'C:\Users\Alan\AppData\Local\GitHub\PortableGit_c2ba306e536fdf878271f7fe636a147ff37326ad\bin\git.exe'
+2015-11-09 14:31:01.8239|ERROR|thread: 4|StartupLogging| MISSING PATH!!: 'C:\Users\Alan\AppData\Local\GitHub\lfs-amd64_1.0.2'
+2015-11-09 14:31:01.8239|ERROR|thread: 4|StartupLogging| MISSING PATH!!: 'C:\Program Files (x86)\AMD APP\bin\x86'
+2015-11-09 14:31:01.8239|ERROR|thread: 4|StartupLogging| MISSING PATH!!: 'C:\Program Files\Microsoft SQL Server\110\Tools\Binn\%JAVA_HOME%\bin'
+2015-11-09 14:31:01.8239|INFO|thread: 4|StartupLogging| ----------------------------------------------------
+2015-11-09 14:31:01.8239|INFO|thread: 4|StartupLogging| PATH: C:\RailsInstaller\Git\cmd;C:\RailsInstaller\Ruby2.0.0\bin;C:\ProgramData\Oracle\Java\javapath;C:\PROGRA~2\Borland\CBUILD~1\Bin;C:\PROGRA~2\Borland\CBUILD~1\Projects\Bpl;C:\Program Files (x86)\AMD APP\bin\x86_64;C:\Program Files (x86)\AMD APP\bin\x86;C:\Program Files (x86)\Intel\iCLS Client\;C:\Program Files\Intel\iCLS Client\;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files (x86)\Intel\OpenCL SDK\3.0\bin\x86;C:\Program Files (x86)\Intel\OpenCL SDK\3.0\bin\x64;C:\Program Files (x86)\ATI Technologies\ATI.ACE\Core-Static;C:\Program Files (x86)\Borland\Delphi7\Bin;C:\Program Files (x86)\Borland\Delphi7\Projects\Bpl;C:\Program Files (x86)\Windows Kits\8.1\Windows Performance Toolkit\;C:\Program Files\Microsoft SQL Server\110\Tools\Binn\%JAVA_HOME%\bin;C:\Program Files (x86)\Skype\Phone\;C:\Program Files (x86)\MySQL\MySQL Fabric 1.5.4 & MySQL Utilities 1.5.4 1.5\;C:\Program Files (x86)\MySQL\MySQL Fabric 1.5.4 & MySQL Utilities 1.5.4 1.5\Doctrine extensions for PHP\;C:\Program Files (x86)\Microsoft SQL Server\100\Tools\Binn\;C:\Program Files\Microsoft SQL Server\100\Tools\Binn\;C:\Program Files\Microsoft SQL Server\100\DTS\Binn\;C:\Program Files (x86)\Microsoft SQL Server\100\Tools\Binn\VSShell\Common7\IDE\;C:\Program Files (x86)\Microsoft SQL Server\100\DTS\Binn\
+2015-11-09 14:31:01.8239|INFO|thread: 1|App|Checking whether application is network deployed: True
+2015-11-09 14:31:01.8239|INFO|thread: 1|App|Shortcut C:\Users\Alan\AppData\Local\GitHub\GitHub.appref-ms exists? True
+2015-11-09 14:31:01.8709|INFO|thread: 1|ClickOnceAppIconHelper|Updating registry with our application icon 'C:\Users\Alan\AppData\Local\Apps\2.0\2NABO2ZE.3AC\NTXZHH3J.VLB\gith..tion_317444273a93ac29_0003.0000_12384c781d7f8ad4\Images\App.ico'
+2015-11-09 14:31:03.1489|INFO|thread: 1|ProcessWrapper|Starting: Process - FileName: 'C:\Users\Alan\AppData\Local\Apps\2.0\2NABO2ZE.3AC\NTXZHH3J.VLB\gith..tion_317444273a93ac29_0003.0000_12384c781d7f8ad4\7za.exe', Args: 'x -y "-oC:\Users\Alan\AppData\Local\GitHub\mh3hqooh.dq5.deleteme" "C:\Users\Alan\AppData\Local\Apps\2.0\2NABO2ZE.3AC\NTXZHH3J.VLB\gith..tion_317444273a93ac29_0003.0000_12384c781d7f8ad4\lfs-amd64.7z"', Working Directory: 
+2015-11-09 14:31:03.1579|INFO|thread: 1|PortablePackageManager|Extracting lfs-amd64.7z is (so far) successful
+2015-11-09 14:31:03.1739|INFO|thread: 1|ReactiveScreen|Activating GitHub.ViewModels.ShellViewModel.
+2015-11-09 14:31:03.1739|INFO|thread: 1|ReactiveScreen|Activating GitHub.ViewModels.DashboardViewModel.
+2015-11-09 14:31:03.4100|INFO|thread:14|PortablePackageManager|Extracted package successfully: lfs-amd64.7z
+2015-11-09 14:31:03.8750|INFO|thread: 1|PortablePackageManager|Already extracted gitignore.7z, returning 100%
+2015-11-09 14:31:04.9721|INFO|thread: 4|StartupLogger|Proxy information: (None)
+2015-11-09 14:31:04.9721|INFO|thread: 4|StartupLogger|Couldn't fetch creds for proxy
+2015-11-09 14:31:04.9861|INFO|thread: 4|PortablePackageManager|About to cleanup old package 'C:\Users\Alan\AppData\Local\GitHub\lfs-amd64_0.5.4', current version is 'C:\Users\Alan\AppData\Local\GitHub\lfs-amd64_1.0.2'
+2015-11-09 14:31:04.9941|INFO|thread: 4|UrlProtocolInstaller|Registered UrlAppLauncher protocol: "C:\Users\Alan\AppData\Local\Apps\2.0\2NABO2ZE.3AC\NTXZHH3J.VLB\gith..tion_317444273a93ac29_0003.0000_12384c781d7f8ad4\GitHub.exe" -u="%1"
+2015-11-09 14:31:05.0531|INFO|thread: 4|PortablePackageManager|Already extracted PortableGit.7z, returning 100%
+2015-11-09 14:31:05.0761|INFO|thread: 1|GitClient|Installing git lfs filters
+2015-11-09 14:31:05.0761|WARN|thread:14|LoginCache|Could not get login for host 'GitHub.HostAddress'
+System.Collections.Generic.KeyNotFoundException: The given key 'login:null' was not present in the cache.
+2015-11-09 14:31:05.1101|INFO|thread: 1|GitEnvironment|Process set up with this SSH Agent info: 5524:/tmp/ssh-lJ8C7vj8XHRK/agent.5484
+2015-11-09 14:31:05.1101|INFO|thread: 1|GitEnvironment|PATH is C:\Users\Alan\AppData\Local\GitHub\PortableGit_c2ba306e536fdf878271f7fe636a147ff37326ad\cmd;C:\Users\Alan\AppData\Local\GitHub\PortableGit_c2ba306e536fdf878271f7fe636a147ff37326ad\bin;C:\Users\Alan\AppData\Local\Apps\2.0\2NABO2ZE.3AC\NTXZHH3J.VLB\gith..tion_317444273a93ac29_0003.0000_12384c781d7f8ad4;C:\Users\Alan\AppData\Local\GitHub\lfs-amd64_1.0.2;C:\Program Files (x86)\MSBuild\12.0\bin;C:\Windows\System32
+2015-11-09 14:31:05.1101|INFO|thread: 1|ProcessWrapper|Starting: Process - FileName: 'C:\Users\Alan\AppData\Local\GitHub\PortableGit_c2ba306e536fdf878271f7fe636a147ff37326ad\bin\git.exe', Args: 'lfs init --force ', Working Directory: C:\Users\Alan\AppData\Local\Temp\
+2015-11-09 14:31:05.1391|INFO|thread: 4|MsysGitCertificateInstaller|Found certificate cache, loaded 162 certificates
+2015-11-09 14:31:05.1501|INFO|thread: 4|MsysGitCertificateInstaller|Created certificate bundle with 180 entries
+2015-11-09 14:31:05.1791|INFO|thread: 4|StartupSequence|Took 126ms to Update certificate bundle from system store
+2015-11-09 14:31:05.3251|INFO|thread: 4|BlobCacheUtils|Vacuuming C:\Users\Alan\AppData\Local\GitHub\images.cache.db
+2015-11-09 14:31:05.4161|INFO|thread:15|GitHubShellSetupHelper|Wrote GitHubShell setup script here 'C:\Users\Alan\AppData\Local\GitHub\shell.ps1'
+2015-11-09 14:31:06.4861|INFO|thread:12|DashboardViewModel|Selected repository '/Tutorial'
+2015-11-09 14:31:06.5161|INFO|thread:12|AsyncReaderWriterLock|Acquiring concurrent scheduler for operation 1 at GitClient.cs:627
+2015-11-09 14:31:06.5161|INFO|thread:14|AsyncReaderWriterLock|Acquired concurrent scheduler for operation: 1 at GitClient.cs:627 after waiting 0.0014997s
+2015-11-09 14:31:06.5201|INFO|thread:12|AsyncReaderWriterLock|Acquiring exclusive scheduler for operation 2 at GitClient.cs:605
+2015-11-09 14:31:06.6581|INFO|thread:15|AsyncReaderWriterLock|Released concurrent scheduler for operation: 1 at GitClient.cs:627 after blocking 0.1397297s
+2015-11-09 14:31:06.6581|INFO|thread:14|AsyncReaderWriterLock|Acquired exclusive scheduler for operation: 2 at GitClient.cs:605 after waiting 0.1388834s
+2015-11-09 14:31:07.3082|INFO|thread:14|AsyncReaderWriterLock|Acquiring concurrent scheduler for operation 3 at GitClient.cs:622
+2015-11-09 14:31:07.4032|INFO|thread:14|AsyncReaderWriterLock|Acquiring concurrent scheduler for operation 4 at GitClient.cs:222
+2015-11-09 14:31:07.4032|INFO|thread:14|DashboardViewModel|Took 893ms to Create RepositoryViewModel for location C:\Users\Alan\AppData\Local\GitHub\TutorialRepository_fdbf2020839cde135ff9dbed7d503f8e03fa3ab4\new-repo
+2015-11-09 14:31:07.4032|INFO|thread:14|AsyncReaderWriterLock|Released exclusive scheduler for operation: 2 at GitClient.cs:605 after blocking 0.7453884s
+2015-11-09 14:31:07.4032|INFO|thread:14|AsyncReaderWriterLock|Acquired concurrent scheduler for operation: 3 at GitClient.cs:622 after waiting 0.0980662s
+2015-11-09 14:31:07.4342|INFO|thread:14|AsyncReaderWriterLock|Acquiring concurrent scheduler for operation 5 at RepositoryViewModel.cs:325
+2015-11-09 14:31:07.4342|INFO|thread:14|AsyncReaderWriterLock|Released concurrent scheduler for operation: 3 at GitClient.cs:622 after blocking 0.0302209s
+2015-11-09 14:31:07.4342|INFO|thread:14|AsyncReaderWriterLock|Acquired concurrent scheduler for operation: 4 at GitClient.cs:222 after waiting 0.0335523s
+2015-11-09 14:31:07.4342|INFO|thread:14|GitClient|Loading commits for repo: C:\Users\Alan\AppData\Local\GitHub\TutorialRepository_fdbf2020839cde135ff9dbed7d503f8e03fa3ab4\new-repo
+2015-11-09 14:31:07.4402|INFO|thread:15|AsyncReaderWriterLock|Acquired concurrent scheduler for operation: 5 at RepositoryViewModel.cs:325 after waiting 0.0058181s
+2015-11-09 14:31:07.4942|INFO|thread:14|ConcurrentRepositoryConnection|Loaded '1' commits for repo: C:\Users\Alan\AppData\Local\GitHub\TutorialRepository_fdbf2020839cde135ff9dbed7d503f8e03fa3ab4\new-repo\.
+2015-11-09 14:31:07.5032|INFO|thread:14|AsyncReaderWriterLock|Released concurrent scheduler for operation: 4 at GitClient.cs:222 after blocking 0.066913s
+2015-11-09 14:31:07.5302|INFO|thread: 8|AsyncReaderWriterLock|Released concurrent scheduler for operation: 5 at RepositoryViewModel.cs:325 after blocking 0.0896788s
+2015-11-09 14:31:07.6092|INFO|thread: 1|AsyncReaderWriterLock|Acquiring concurrent scheduler for operation 6 at GitClient.cs:199
+2015-11-09 14:31:07.6092|INFO|thread: 8|AsyncReaderWriterLock|Acquired concurrent scheduler for operation: 6 at GitClient.cs:199 after waiting 6.54E-05s
+2015-11-09 14:31:07.6092|INFO|thread: 1|AsyncReaderWriterLock|Acquiring concurrent scheduler for operation 7 at RepositoryModel.cs:596
+2015-11-09 14:31:07.6142|INFO|thread:14|AsyncReaderWriterLock|Acquiring concurrent scheduler for operation 8 at RepositoryModel.cs:596
+2015-11-09 14:31:07.6512|INFO|thread:15|AsyncReaderWriterLock|Released concurrent scheduler for operation: 6 at GitClient.cs:199 after blocking 0.0420911s
+2015-11-09 14:31:07.6512|INFO|thread: 8|AsyncReaderWriterLock|Acquired concurrent scheduler for operation: 7 at RepositoryModel.cs:596 after waiting 0.0410126s
+2015-11-09 14:31:07.6512|INFO|thread:15|AsyncReaderWriterLock|Acquired concurrent scheduler for operation: 8 at RepositoryModel.cs:596 after waiting 0.0371005s
+2015-11-09 14:31:08.4683|INFO|thread: 1|AsyncReaderWriterLock|Acquiring concurrent scheduler for operation 9 at GitClient.cs:610
+2015-11-09 14:31:09.2093|INFO|thread:14|AsyncReaderWriterLock|Acquiring concurrent scheduler for operation 10 at GitClient.cs:288
+2015-11-09 14:31:09.2263|INFO|thread:14|AsyncReaderWriterLock|Acquiring concurrent scheduler for operation 11 at BranchSynchronizer.cs:126
+2015-11-09 14:31:09.2263|INFO|thread:14|AsyncReaderWriterLock|Released concurrent scheduler for operation: 8 at RepositoryModel.cs:596 after blocking 1.578214s
+2015-11-09 14:31:09.2263|INFO|thread:14|AsyncReaderWriterLock|Acquired concurrent scheduler for operation: 9 at GitClient.cs:610 after waiting 0.7650516s
+2015-11-09 14:31:09.2263|INFO|thread:15|AsyncReaderWriterLock|Acquired concurrent scheduler for operation: 10 at GitClient.cs:288 after waiting 0.0237125s
+2015-11-09 14:31:09.2483|INFO|thread:15|GitEnvironment|Process set up with this SSH Agent info: 5524:/tmp/ssh-lJ8C7vj8XHRK/agent.5484
+2015-11-09 14:31:09.2483|INFO|thread:15|GitEnvironment|PATH is C:\Users\Alan\AppData\Local\GitHub\PortableGit_c2ba306e536fdf878271f7fe636a147ff37326ad\cmd;C:\Users\Alan\AppData\Local\GitHub\PortableGit_c2ba306e536fdf878271f7fe636a147ff37326ad\bin;C:\Users\Alan\AppData\Local\Apps\2.0\2NABO2ZE.3AC\NTXZHH3J.VLB\gith..tion_317444273a93ac29_0003.0000_12384c781d7f8ad4;C:\Users\Alan\AppData\Local\GitHub\lfs-amd64_1.0.2;C:\Program Files (x86)\MSBuild\12.0\bin;C:\Windows\System32
+2015-11-09 14:31:09.2483|INFO|thread:15|ProcessWrapper|Starting: Process - FileName: 'C:\Users\Alan\AppData\Local\GitHub\PortableGit_c2ba306e536fdf878271f7fe636a147ff37326ad\bin\git.exe', Args: 'status --untracked-files=all --porcelain -z ', Working Directory: C:\Users\Alan\AppData\Local\GitHub\TutorialRepository_fdbf2020839cde135ff9dbed7d503f8e03fa3ab4\new-repo\
+2015-11-09 14:31:09.3293|INFO|thread: 1|AsyncReaderWriterLock|Acquiring concurrent scheduler for operation 12 at BranchesViewModel.cs:532
+2015-11-09 14:31:09.3293|INFO|thread: 1|AsyncReaderWriterLock|Acquiring concurrent scheduler for operation 13 at RepositoryViewModel.cs:325
+2015-11-09 14:31:09.3293|INFO|thread: 1|AsyncReaderWriterLock|Acquiring concurrent scheduler for operation 14 at BranchSynchronizer.cs:126
+2015-11-09 14:31:10.6994|INFO|thread:26|AsyncReaderWriterLock|Acquiring concurrent scheduler for operation 15 at BranchSynchronizer.cs:126
+2015-11-09 14:31:10.6994|INFO|thread:26|AsyncReaderWriterLock|Released concurrent scheduler for operation: 7 at RepositoryModel.cs:596 after blocking 3.0475261s
+2015-11-09 14:31:10.7014|INFO|thread: 8|AsyncReaderWriterLock|Acquired concurrent scheduler for operation: 11 at BranchSynchronizer.cs:126 after waiting 1.4746508s
+2015-11-09 14:31:10.7014|INFO|thread:14|AsyncReaderWriterLock|Acquired concurrent scheduler for operation: 12 at BranchesViewModel.cs:532 after waiting 1.37451s
+2015-11-09 14:31:10.7014|INFO|thread:26|AsyncReaderWriterLock|Released concurrent scheduler for operation: 9 at GitClient.cs:610 after blocking 1.4736753s
+2015-11-09 14:31:10.7194|INFO|thread:14|AsyncReaderWriterLock|Acquired concurrent scheduler for operation: 13 at RepositoryViewModel.cs:325 after waiting 1.3841718s
+2015-11-09 14:31:10.7194|INFO|thread: 8|ConcurrentRepositoryConnection|branch stats: remote not found for master
+2015-11-09 14:31:10.7194|INFO|thread:26|AsyncReaderWriterLock|Released concurrent scheduler for operation: 12 at BranchesViewModel.cs:532 after blocking 0.0194258s
+2015-11-09 14:31:10.7194|INFO|thread: 8|AsyncReaderWriterLock|Released concurrent scheduler for operation: 11 at BranchSynchronizer.cs:126 after blocking 0.023382s
+2015-11-09 14:31:10.7194|INFO|thread: 8|AsyncReaderWriterLock|Acquired concurrent scheduler for operation: 14 at BranchSynchronizer.cs:126 after waiting 1.3874489s
+2015-11-09 14:31:10.7834|INFO|thread:26|AsyncReaderWriterLock|Released concurrent scheduler for operation: 13 at RepositoryViewModel.cs:325 after blocking 0.0645319s
+2015-11-09 14:31:10.7834|INFO|thread:14|AsyncReaderWriterLock|Acquired concurrent scheduler for operation: 15 at BranchSynchronizer.cs:126 after waiting 0.0846916s
+2015-11-09 14:31:10.7834|INFO|thread:14|ConcurrentRepositoryConnection|branch stats: remote not found for master
+2015-11-09 14:31:10.7834|INFO|thread:14|AsyncReaderWriterLock|Released concurrent scheduler for operation: 15 at BranchSynchronizer.cs:126 after blocking 0.0031158s
+2015-11-09 14:31:10.7834|INFO|thread:14|ConcurrentRepositoryConnection|Took 1528ms to git status
+2015-11-09 14:31:10.7834|INFO|thread:14|ConcurrentRepositoryConnection|Took 1530ms to git status and parse output
+2015-11-09 14:31:10.7964|INFO|thread:26|ConcurrentRepositoryConnection|branch stats: remote not found for master
+2015-11-09 14:31:10.7964|INFO|thread:26|AsyncReaderWriterLock|Released concurrent scheduler for operation: 14 at BranchSynchronizer.cs:126 after blocking 0.071683s
+2015-11-09 14:31:10.7964|INFO|thread:14|NewCommitViewModel|Took 1588ms to load files for C:\Users\Alan\AppData\Local\GitHub\TutorialRepository_fdbf2020839cde135ff9dbed7d503f8e03fa3ab4\new-repo
+2015-11-09 14:31:10.7964|INFO|thread:14|AsyncReaderWriterLock|Released concurrent scheduler for operation: 10 at GitClient.cs:288 after blocking 1.5644596s
+2015-11-09 14:31:10.7964|INFO|thread: 1|NewCommitViewModel|Took 4ms to render file list for C:\Users\Alan\AppData\Local\GitHub\TutorialRepository_fdbf2020839cde135ff9dbed7d503f8e03fa3ab4\new-repo
+2015-11-09 14:31:10.7964|INFO|thread: 1|AsyncReaderWriterLock|Acquiring concurrent scheduler for operation 16 at RepositoryViewModel.cs:325
+2015-11-09 14:31:10.7964|INFO|thread:14|AsyncReaderWriterLock|Acquired concurrent scheduler for operation: 16 at RepositoryViewModel.cs:325 after waiting 2.26E-05s
+2015-11-09 14:31:10.7964|INFO|thread: 1|AsyncReaderWriterLock|Released concurrent scheduler for operation: 16 at RepositoryViewModel.cs:325 after blocking 1.28E-05s
+2015-11-09 14:31:10.7964|INFO|thread: 1|AsyncReaderWriterLock|Acquiring concurrent scheduler for operation 17 at RepositoryViewModel.cs:325
+2015-11-09 14:31:10.7964|INFO|thread:15|AsyncReaderWriterLock|Acquired concurrent scheduler for operation: 17 at RepositoryViewModel.cs:325 after waiting 1.02E-05s
+2015-11-09 14:31:10.7964|INFO|thread: 8|AsyncReaderWriterLock|Released concurrent scheduler for operation: 17 at RepositoryViewModel.cs:325 after blocking 0.0048892s
+2015-11-09 14:31:11.9214|INFO|thread:15|SoftwareUpdateViewModel|Checking for new version
+2015-11-09 14:31:12.5915|INFO|thread: 1|AsyncReaderWriterLock|Acquiring concurrent scheduler for operation 18 at GitClient.cs:199
+2015-11-09 14:31:12.5915|INFO|thread: 8|AsyncReaderWriterLock|Acquired concurrent scheduler for operation: 18 at GitClient.cs:199 after waiting 7.99E-05s
+2015-11-09 14:31:12.5915|INFO|thread: 1|AsyncReaderWriterLock|Acquiring concurrent scheduler for operation 19 at RepositoryModel.cs:596
+2015-11-09 14:31:12.5915|INFO|thread:15|AsyncReaderWriterLock|Acquired concurrent scheduler for operation: 19 at RepositoryModel.cs:596 after waiting 0.0090524s
+2015-11-09 14:31:12.6335|INFO|thread:26|AsyncReaderWriterLock|Released concurrent scheduler for operation: 18 at GitClient.cs:199 after blocking 0.0416694s
+2015-11-09 14:31:12.6415|INFO|thread: 8|AsyncReaderWriterLock|Acquiring concurrent scheduler for operation 20 at GitClient.cs:288
+2015-11-09 14:31:12.6415|INFO|thread:26|AsyncReaderWriterLock|Acquired concurrent scheduler for operation: 20 at GitClient.cs:288 after waiting 3.89E-05s
+2015-11-09 14:31:12.6415|INFO|thread: 8|AsyncReaderWriterLock|Acquiring concurrent scheduler for operation 21 at BranchSynchronizer.cs:126
+2015-11-09 14:31:12.6415|INFO|thread: 8|AsyncReaderWriterLock|Released concurrent scheduler for operation: 19 at RepositoryModel.cs:596 after blocking 0.0395064s
+2015-11-09 14:31:12.6415|INFO|thread:15|AsyncReaderWriterLock|Acquired concurrent scheduler for operation: 21 at BranchSynchronizer.cs:126 after waiting 8.72E-05s
+2015-11-09 14:31:12.6415|INFO|thread: 8|ConcurrentRepositoryConnection|branch stats: remote not found for master
+2015-11-09 14:31:12.6415|INFO|thread: 8|AsyncReaderWriterLock|Released concurrent scheduler for operation: 21 at BranchSynchronizer.cs:126 after blocking 0.0018547s
+2015-11-09 14:31:12.6415|INFO|thread:15|GitEnvironment|Process set up with this SSH Agent info: 5524:/tmp/ssh-lJ8C7vj8XHRK/agent.5484
+2015-11-09 14:31:12.6415|INFO|thread:15|GitEnvironment|PATH is C:\Users\Alan\AppData\Local\GitHub\PortableGit_c2ba306e536fdf878271f7fe636a147ff37326ad\cmd;C:\Users\Alan\AppData\Local\GitHub\PortableGit_c2ba306e536fdf878271f7fe636a147ff37326ad\bin;C:\Users\Alan\AppData\Local\Apps\2.0\2NABO2ZE.3AC\NTXZHH3J.VLB\gith..tion_317444273a93ac29_0003.0000_12384c781d7f8ad4;C:\Users\Alan\AppData\Local\GitHub\lfs-amd64_1.0.2;C:\Program Files (x86)\MSBuild\12.0\bin;C:\Windows\System32
+2015-11-09 14:31:12.6415|INFO|thread:15|ProcessWrapper|Starting: Process - FileName: 'C:\Users\Alan\AppData\Local\GitHub\PortableGit_c2ba306e536fdf878271f7fe636a147ff37326ad\bin\git.exe', Args: 'status --untracked-files=all --porcelain -z ', Working Directory: C:\Users\Alan\AppData\Local\GitHub\TutorialRepository_fdbf2020839cde135ff9dbed7d503f8e03fa3ab4\new-repo\
+2015-11-09 14:31:12.6615|INFO|thread:15|ConcurrentRepositoryConnection|Took 13ms to git status
+2015-11-09 14:31:12.6615|INFO|thread:15|ConcurrentRepositoryConnection|Took 13ms to git status and parse output
+2015-11-09 14:31:13.1505|INFO|thread: 1|DashboardViewModel|Received request to clone: 'https://github.com/Gojiggles/new.git'
+2015-11-09 14:31:13.2645|INFO|thread:15|NewCommitViewModel|Took 623ms to load files for C:\Users\Alan\AppData\Local\GitHub\TutorialRepository_fdbf2020839cde135ff9dbed7d503f8e03fa3ab4\new-repo
+2015-11-09 14:31:13.2645|INFO|thread:15|AsyncReaderWriterLock|Released concurrent scheduler for operation: 20 at GitClient.cs:288 after blocking 0.6235069s
+2015-11-09 14:31:13.2645|INFO|thread: 1|NewCommitViewModel|Took 0ms to render file list for C:\Users\Alan\AppData\Local\GitHub\TutorialRepository_fdbf2020839cde135ff9dbed7d503f8e03fa3ab4\new-repo
+2015-11-09 14:31:13.2645|INFO|thread: 1|AsyncReaderWriterLock|Acquiring concurrent scheduler for operation 22 at RepositoryViewModel.cs:325
+2015-11-09 14:31:13.2645|INFO|thread:26|AsyncReaderWriterLock|Acquired concurrent scheduler for operation: 22 at RepositoryViewModel.cs:325 after waiting 1.71E-05s
+2015-11-09 14:31:13.2645|INFO|thread:15|AsyncReaderWriterLock|Released concurrent scheduler for operation: 22 at RepositoryViewModel.cs:325 after blocking 0.0036324s
+2015-11-09 14:31:22.8541|INFO|thread: 1|RepositoryHost|Log in from cache for login 'Gojiggles' to host 'https://api.github.com/' SUCCEEDED
+2015-11-09 14:31:22.8711|INFO|thread:29|ApplicationShellInitializer|Running post login tasks. ~/.gitconfig is set up with user.name = 'Gojiggles' and user.email = 'sabah.h2o@gmail.com'
+2015-11-09 14:31:22.8891|INFO|thread:29|SSHKeyHelper|ssh-agent already running
+2015-11-09 14:31:22.8891|INFO|thread:29|PortablePackageManager|Already extracted lfs-amd64.7z, returning 100%
+2015-11-09 14:31:22.8891|INFO|thread:29|GitEnvironment|Process set up with this SSH Agent info: 5524:/tmp/ssh-lJ8C7vj8XHRK/agent.5484
+2015-11-09 14:31:22.8891|INFO|thread:29|GitEnvironment|PATH is C:\Users\Alan\AppData\Local\GitHub\PortableGit_c2ba306e536fdf878271f7fe636a147ff37326ad\cmd;C:\Users\Alan\AppData\Local\GitHub\PortableGit_c2ba306e536fdf878271f7fe636a147ff37326ad\bin;C:\Users\Alan\AppData\Local\Apps\2.0\2NABO2ZE.3AC\NTXZHH3J.VLB\gith..tion_317444273a93ac29_0003.0000_12384c781d7f8ad4;C:\Users\Alan\AppData\Local\GitHub\lfs-amd64_1.0.2;C:\Program Files (x86)\MSBuild\12.0\bin;C:\Windows\System32
+2015-11-09 14:31:22.8891|INFO|thread:29|ProcessWrapper|Starting: Process - FileName: 'C:\Users\Alan\AppData\Local\GitHub\PortableGit_c2ba306e536fdf878271f7fe636a147ff37326ad\bin\ssh-add.exe', Args: '"C:\Users\Alan\.ssh\github_rsa"', Working Directory: C:\Users\Alan\AppData\Local\Temp\
+2015-11-09 14:31:22.9911|INFO|thread:26|SSHKeyHelper|Found existing SSH key pair
+2015-11-09 14:31:23.4651|INFO|thread:12|DashboardViewModel|Selected repository '/Tutorial'
+2015-11-09 14:31:23.4871|INFO|thread: 1|AsyncReaderWriterLock|Acquiring concurrent scheduler for operation 23 at GitClient.cs:199
+2015-11-09 14:31:23.4871|INFO|thread:26|AsyncReaderWriterLock|Acquired concurrent scheduler for operation: 23 at GitClient.cs:199 after waiting 4.44E-05s
+2015-11-09 14:31:23.4871|INFO|thread: 1|AsyncReaderWriterLock|Acquiring concurrent scheduler for operation 24 at RepositoryModel.cs:596
+2015-11-09 14:31:23.4871|INFO|thread:30|AsyncReaderWriterLock|Acquired concurrent scheduler for operation: 24 at RepositoryModel.cs:596 after waiting 8.46E-05s
+2015-11-09 14:31:23.4871|INFO|thread:15|AsyncReaderWriterLock|Acquiring concurrent scheduler for operation 25 at GitClient.cs:288
+2015-11-09 14:31:23.4871|INFO|thread:15|AsyncReaderWriterLock|Acquiring concurrent scheduler for operation 26 at BranchSynchronizer.cs:126
+2015-11-09 14:31:23.4871|INFO|thread:15|AsyncReaderWriterLock|Released concurrent scheduler for operation: 24 at RepositoryModel.cs:596 after blocking 0.0039724s
+2015-11-09 14:31:23.4871|INFO|thread:15|AsyncReaderWriterLock|Acquired concurrent scheduler for operation: 25 at GitClient.cs:288 after waiting 0.0003515s
+2015-11-09 14:31:23.4871|INFO|thread:30|AsyncReaderWriterLock|Acquired concurrent scheduler for operation: 26 at BranchSynchronizer.cs:126 after waiting 0.0002702s
+2015-11-09 14:31:23.4951|INFO|thread:30|ConcurrentRepositoryConnection|branch stats: remote not found for master
+2015-11-09 14:31:23.4951|INFO|thread:30|AsyncReaderWriterLock|Released concurrent scheduler for operation: 26 at BranchSynchronizer.cs:126 after blocking 0.0029524s
+2015-11-09 14:31:23.4951|INFO|thread: 5|AsyncReaderWriterLock|Released concurrent scheduler for operation: 23 at GitClient.cs:199 after blocking 0.0104281s
+2015-11-09 14:31:23.4951|INFO|thread:30|GitEnvironment|Process set up with this SSH Agent info: 5524:/tmp/ssh-lJ8C7vj8XHRK/agent.5484
+2015-11-09 14:31:23.4951|INFO|thread:30|GitEnvironment|PATH is C:\Users\Alan\AppData\Local\GitHub\PortableGit_c2ba306e536fdf878271f7fe636a147ff37326ad\cmd;C:\Users\Alan\AppData\Local\GitHub\PortableGit_c2ba306e536fdf878271f7fe636a147ff37326ad\bin;C:\Users\Alan\AppData\Local\Apps\2.0\2NABO2ZE.3AC\NTXZHH3J.VLB\gith..tion_317444273a93ac29_0003.0000_12384c781d7f8ad4;C:\Users\Alan\AppData\Local\GitHub\lfs-amd64_1.0.2;C:\Program Files (x86)\MSBuild\12.0\bin;C:\Windows\System32
+2015-11-09 14:31:23.4951|INFO|thread:30|ProcessWrapper|Starting: Process - FileName: 'C:\Users\Alan\AppData\Local\GitHub\PortableGit_c2ba306e536fdf878271f7fe636a147ff37326ad\bin\git.exe', Args: 'status --untracked-files=all --porcelain -z ', Working Directory: C:\Users\Alan\AppData\Local\GitHub\TutorialRepository_fdbf2020839cde135ff9dbed7d503f8e03fa3ab4\new-repo\
+2015-11-09 14:31:23.5211|INFO|thread:30|ConcurrentRepositoryConnection|Took 19ms to git status
+2015-11-09 14:31:23.5211|INFO|thread:30|ConcurrentRepositoryConnection|Took 19ms to git status and parse output
+2015-11-09 14:31:23.5211|INFO|thread:30|NewCommitViewModel|Took 29ms to load files for C:\Users\Alan\AppData\Local\GitHub\TutorialRepository_fdbf2020839cde135ff9dbed7d503f8e03fa3ab4\new-repo
+2015-11-09 14:31:23.5211|INFO|thread:30|AsyncReaderWriterLock|Released concurrent scheduler for operation: 25 at GitClient.cs:288 after blocking 0.0294794s
+2015-11-09 14:31:23.5291|INFO|thread: 1|NewCommitViewModel|Took 8ms to render file list for C:\Users\Alan\AppData\Local\GitHub\TutorialRepository_fdbf2020839cde135ff9dbed7d503f8e03fa3ab4\new-repo
+2015-11-09 14:31:23.5291|INFO|thread: 1|AsyncReaderWriterLock|Acquiring concurrent scheduler for operation 27 at RepositoryViewModel.cs:325
+2015-11-09 14:31:23.5291|INFO|thread:26|AsyncReaderWriterLock|Acquired concurrent scheduler for operation: 27 at RepositoryViewModel.cs:325 after waiting 0.0007565s
+2015-11-09 14:31:23.5391|INFO|thread: 5|AsyncReaderWriterLock|Released concurrent scheduler for operation: 27 at RepositoryViewModel.cs:325 after blocking 0.0078289s
+2015-11-09 14:31:39.0870|INFO|thread: 1|RepositoryModel|Cloning repo https://github.com/Gojiggles/new.git
+2015-11-09 14:31:39.0960|INFO|thread: 1|GitLfsSmudgeTail|Setting Git LFS smudge progress environment variable
+2015-11-09 14:31:39.0960|INFO|thread: 1|RepositoryModel|Cloning 'https://github.com/Gojiggles/new.git' to 'new' in directory 'C:\Users\Alan\Desktop
+2015-11-09 14:31:39.1090|INFO|thread: 1|GitEnvironment|Process set up with this SSH Agent info: 5524:/tmp/ssh-lJ8C7vj8XHRK/agent.5484
+2015-11-09 14:31:39.1090|INFO|thread: 1|GitEnvironment|PATH is C:\Users\Alan\AppData\Local\GitHub\PortableGit_c2ba306e536fdf878271f7fe636a147ff37326ad\cmd;C:\Users\Alan\AppData\Local\GitHub\PortableGit_c2ba306e536fdf878271f7fe636a147ff37326ad\bin;C:\Users\Alan\AppData\Local\Apps\2.0\2NABO2ZE.3AC\NTXZHH3J.VLB\gith..tion_317444273a93ac29_0003.0000_12384c781d7f8ad4;C:\Users\Alan\AppData\Local\GitHub\lfs-amd64_1.0.2;C:\Program Files (x86)\MSBuild\12.0\bin;C:\Windows\System32
+2015-11-09 14:31:39.1090|INFO|thread: 1|ProcessWrapper|Starting: Process - FileName: 'C:\Users\Alan\AppData\Local\GitHub\PortableGit_c2ba306e536fdf878271f7fe636a147ff37326ad\bin\git.exe', Args: 'clone --progress --recursive  --  "https://github.com/Gojiggles/new.git" "new" ', Working Directory: C:\Users\Alan\Desktop
+2015-11-09 14:31:39.1680|INFO|thread:12|DashboardViewModel|Selected repository 'Gojiggles/new'
+2015-11-09 14:31:39.3400|INFO|thread: 1|AsyncReaderWriterLock|Acquiring concurrent scheduler for operation 28 at GitClient.cs:199
+2015-11-09 14:31:39.3400|INFO|thread: 5|AsyncReaderWriterLock|Acquired concurrent scheduler for operation: 28 at GitClient.cs:199 after waiting 1.75E-05s
+2015-11-09 14:31:39.3400|INFO|thread: 1|AsyncReaderWriterLock|Acquiring concurrent scheduler for operation 29 at RepositoryModel.cs:596
+2015-11-09 14:31:39.3400|INFO|thread:30|AsyncReaderWriterLock|Acquired concurrent scheduler for operation: 29 at RepositoryModel.cs:596 after waiting 0.0002138s
+2015-11-09 14:31:39.3400|INFO|thread: 1|AsyncReaderWriterLock|Acquiring concurrent scheduler for operation 30 at BranchSynchronizer.cs:126
+2015-11-09 14:31:39.3430|INFO|thread: 1|AsyncReaderWriterLock|Acquiring concurrent scheduler for operation 31 at GitClient.cs:610
+2015-11-09 14:31:39.3430|INFO|thread:26|AsyncReaderWriterLock|Released concurrent scheduler for operation: 28 at GitClient.cs:199 after blocking 0.0103037s
+2015-11-09 14:31:39.3430|INFO|thread: 5|AsyncReaderWriterLock|Acquired concurrent scheduler for operation: 30 at BranchSynchronizer.cs:126 after waiting 0.0092666s
+2015-11-09 14:31:39.3430|INFO|thread:12|DashboardViewModel|Took 0ms to Create RepositoryViewModel for location C:\Users\Alan\Desktop\new
+2015-11-09 14:31:39.3430|INFO|thread:26|AsyncReaderWriterLock|Acquiring concurrent scheduler for operation 32 at GitClient.cs:288
+2015-11-09 14:31:39.3430|INFO|thread:26|AsyncReaderWriterLock|Acquiring concurrent scheduler for operation 33 at BranchSynchronizer.cs:126
+2015-11-09 14:31:39.3430|INFO|thread:26|AsyncReaderWriterLock|Released concurrent scheduler for operation: 29 at RepositoryModel.cs:596 after blocking 0.0135611s
+2015-11-09 14:31:39.3430|INFO|thread:30|AsyncReaderWriterLock|Acquired concurrent scheduler for operation: 31 at GitClient.cs:610 after waiting 0.0118479s
+2015-11-09 14:31:39.3430|INFO|thread:26|AsyncReaderWriterLock|Acquired concurrent scheduler for operation: 32 at GitClient.cs:288 after waiting 0.0003814s
+2015-11-09 14:31:39.3590|INFO|thread:26|GitEnvironment|Process set up with this SSH Agent info: 5524:/tmp/ssh-lJ8C7vj8XHRK/agent.5484
+2015-11-09 14:31:39.3590|INFO|thread:26|GitEnvironment|PATH is C:\Users\Alan\AppData\Local\GitHub\PortableGit_c2ba306e536fdf878271f7fe636a147ff37326ad\cmd;C:\Users\Alan\AppData\Local\GitHub\PortableGit_c2ba306e536fdf878271f7fe636a147ff37326ad\bin;C:\Users\Alan\AppData\Local\Apps\2.0\2NABO2ZE.3AC\NTXZHH3J.VLB\gith..tion_317444273a93ac29_0003.0000_12384c781d7f8ad4;C:\Users\Alan\AppData\Local\GitHub\lfs-amd64_1.0.2;C:\Program Files (x86)\MSBuild\12.0\bin;C:\Windows\System32
+2015-11-09 14:31:39.3590|INFO|thread:26|ProcessWrapper|Starting: Process - FileName: 'C:\Users\Alan\AppData\Local\GitHub\PortableGit_c2ba306e536fdf878271f7fe636a147ff37326ad\bin\git.exe', Args: 'status --untracked-files=all --porcelain -z ', Working Directory: C:\Users\Alan\AppData\Local\GitHub\TutorialRepository_fdbf2020839cde135ff9dbed7d503f8e03fa3ab4\new-repo\
+2015-11-09 14:31:39.8130|INFO|thread: 1|AsyncReaderWriterLock|Released concurrent scheduler for operation: 32 at GitClient.cs:288 after blocking 0.4588064s
+2015-11-09 14:31:39.8130|INFO|thread:26|AsyncReaderWriterLock|Acquired concurrent scheduler for operation: 33 at BranchSynchronizer.cs:126 after waiting 0.4590818s
+2015-11-09 14:31:39.8130|INFO|thread: 1|AsyncReaderWriterLock|Released concurrent scheduler for operation: 33 at BranchSynchronizer.cs:126 after blocking 4.2E-06s
+2015-11-09 14:31:39.8130|INFO|thread: 1|AsyncReaderWriterLock|Released concurrent scheduler for operation: 30 at BranchSynchronizer.cs:126 after blocking 0.4628665s
+2015-11-09 14:31:39.8130|INFO|thread: 1|AsyncReaderWriterLock|Released concurrent scheduler for operation: 31 at GitClient.cs:610 after blocking 0.4590109s
+2015-11-09 14:31:39.8130|INFO|thread:26|ConcurrentRepositoryConnection|branch stats: remote not found for master
+2015-11-09 14:31:40.2541|ERROR|thread:19|ComparisonGraph|JavaScript Alert from the comparison graph: http://github-app/: TypeError: Cannot read property 'selectCommit' of null
+2015-11-09 14:31:40.3071|INFO|thread:26|BackgroundFetcher|Got a refresh period for Gojiggles/new of 300 seconds
+2015-11-09 14:31:40.3071|INFO|thread:26|BackgroundFetcher|Added a delay for Gojiggles/new of 4919 milliseconds
+2015-11-09 14:31:41.1681|INFO|thread:14|GitLfsSmudgeTail|Cleaning up Git LFS smudge progress environment variable
+2015-11-09 14:31:41.2061|WARN|thread: 1|StandardUserErrors|Showing user error Please check your log file for more details, or email support if you are still having problems.
+GitHub.IO.ProcessException: Cloning into 'new'...
+remote: Counting objects: 99, done.[K
+remote: Compressing objects:   1% (1/53)   [K
+remote: Compressing objects:   3% (2/53)   [K
+remote: Compressing objects:   5% (3/53)   [K
+remote: Compressing objects:   7% (4/53)   [K
+remote: Compressing objects:   9% (5/53)   [K
+remote: Compressing objects:  11% (6/53)   [K
+remote: Compressing objects:  13% (7/53)   [K
+remote: Compressing objects:  15% (8/53)   [K
+remote: Compressing objects:  16% (9/53)   [K
+remote: Compressing objects:  18% (10/53)   [K
+remote: Compressing objects:  20% (11/53)   [K
+remote: Compressing objects:  22% (12/53)   [K
+remote: Compressing objects:  24% (13/53)   [K
+remote: Compressing objects:  26% (14/53)   [K
+remote: Compressing objects:  28% (15/53)   [K
+remote: Compressing objects:  30% (16/53)   [K
+remote: Compressing objects:  32% (17/53)   [K
+remote: Compressing objects:  33% (18/53)   [K
+remote: Compressing objects:  35% (19/53)   [K
+remote: Compressing objects:  37% (20/53)   [K
+remote: Compressing objects:  39% (21/53)   [K
+remote: Compressing objects:  41% (22/53)   [K
+remote: Compressing objects:  43% (23/53)   [K
+remote: Compressing objects:  45% (24/53)   [K
+remote: Compressing objects:  47% (25/53)   [K
+remote: Compressing objects:  49% (26/53)   [K
+remote: Compressing objects:  50% (27/53)   [K
+remote: Compressing objects:  52% (28/53)   [K
+remote: Compressing objects:  54% (29/53)   [K
+remote: Compressing objects:  56% (30/53)   [K
+remote: Compressing objects:  58% (31/53)   [K
+remote: Compressing objects:  60% (32/53)   [K
+remote: Compressing objects:  62% (33/53)   [K
+remote: Compressing objects:  64% (34/53)   [K
+remote: Compressing objects:  66% (35/53)   [K
+remote: Compressing objects:  67% (36/53)   [K
+remote: Compressing objects:  69% (37/53)   [K
+remote: Compressing objects:  71% (38/53)   [K
+remote: Compressing objects:  73% (39/53)   [K
+remote: Compressing objects:  75% (40/53)   [K
+remote: Compressing objects:  77% (41/53)   [K
+remote: Compressing objects:  79% (42/53)   [K
+remote: Compressing objects:  81% (43/53)   [K
+remote: Compressing objects:  83% (44/53)   [K
+remote: Compressing objects:  84% (45/53)   [K
+remote: Compressing objects:  86% (46/53)   [K
+remote: Compressing objects:  88% (47/53)   [K
+remote: Compressing objects:  90% (48/53)   [K
+remote: Compressing objects:  92% (49/53)   [K
+remote: Compressing objects:  94% (50/53)   [K
+remote: Compressing objects:  96% (51/53)   [K
+remote: Compressing objects:  98% (52/53)   [K
+remote: Compressing objects: 100% (53/53)   [K
+remote: Compressing objects: 100% (53/53), done.[K
+remote: Total 99 (delta 36), reused 99 (delta 36), pack-reused 0[K
+Checking connectivity... done.
+git: 'submodule' is not a git command. See 'git --help'.
+2015-11-09 14:31:41.2351|INFO|thread:12|DashboardViewModel|Selected repository '/Tutorial'
+2015-11-09 14:31:41.2351|INFO|thread: 1|AsyncReaderWriterLock|Acquiring concurrent scheduler for operation 34 at GitClient.cs:199
+2015-11-09 14:31:41.2351|INFO|thread: 8|AsyncReaderWriterLock|Acquired concurrent scheduler for operation: 34 at GitClient.cs:199 after waiting 3.67E-05s
+2015-11-09 14:31:41.2351|INFO|thread: 1|AsyncReaderWriterLock|Acquiring concurrent scheduler for operation 35 at RepositoryModel.cs:596
+2015-11-09 14:31:41.2351|INFO|thread:30|AsyncReaderWriterLock|Acquired concurrent scheduler for operation: 35 at RepositoryModel.cs:596 after waiting 1.58E-05s
+2015-11-09 14:31:41.2461|INFO|thread: 5|AsyncReaderWriterLock|Acquiring concurrent scheduler for operation 36 at GitClient.cs:288
+2015-11-09 14:31:41.2461|INFO|thread:15|AsyncReaderWriterLock|Acquired concurrent scheduler for operation: 36 at GitClient.cs:288 after waiting 2.09E-05s
+2015-11-09 14:31:41.2461|INFO|thread: 5|AsyncReaderWriterLock|Acquiring concurrent scheduler for operation 37 at BranchSynchronizer.cs:126
+2015-11-09 14:31:41.2461|INFO|thread:14|AsyncReaderWriterLock|Acquired concurrent scheduler for operation: 37 at BranchSynchronizer.cs:126 after waiting 0.0004738s
+2015-11-09 14:31:41.2461|INFO|thread: 5|AsyncReaderWriterLock|Released concurrent scheduler for operation: 35 at RepositoryModel.cs:596 after blocking 0.0052964s
+2015-11-09 14:31:41.2461|INFO|thread:18|ConcurrentRepositoryConnection|branch stats: remote not found for master
+2015-11-09 14:31:41.2461|INFO|thread:18|AsyncReaderWriterLock|Released concurrent scheduler for operation: 37 at BranchSynchronizer.cs:126 after blocking 0.0035293s
+2015-11-09 14:31:41.2461|INFO|thread:27|GitEnvironment|Process set up with this SSH Agent info: 5524:/tmp/ssh-lJ8C7vj8XHRK/agent.5484
+2015-11-09 14:31:41.2461|INFO|thread:27|GitEnvironment|PATH is C:\Users\Alan\AppData\Local\GitHub\PortableGit_c2ba306e536fdf878271f7fe636a147ff37326ad\cmd;C:\Users\Alan\AppData\Local\GitHub\PortableGit_c2ba306e536fdf878271f7fe636a147ff37326ad\bin;C:\Users\Alan\AppData\Local\Apps\2.0\2NABO2ZE.3AC\NTXZHH3J.VLB\gith..tion_317444273a93ac29_0003.0000_12384c781d7f8ad4;C:\Users\Alan\AppData\Local\GitHub\lfs-amd64_1.0.2;C:\Program Files (x86)\MSBuild\12.0\bin;C:\Windows\System32
+2015-11-09 14:31:41.2461|INFO|thread:27|ProcessWrapper|Starting: Process - FileName: 'C:\Users\Alan\AppData\Local\GitHub\PortableGit_c2ba306e536fdf878271f7fe636a147ff37326ad\bin\git.exe', Args: 'status --untracked-files=all --porcelain -z ', Working Directory: C:\Users\Alan\AppData\Local\GitHub\TutorialRepository_fdbf2020839cde135ff9dbed7d503f8e03fa3ab4\new-repo\
+2015-11-09 14:31:41.2611|INFO|thread:26|AsyncReaderWriterLock|Released concurrent scheduler for operation: 34 at GitClient.cs:199 after blocking 0.0195674s
+2015-11-09 14:31:41.2611|INFO|thread:32|ConcurrentRepositoryConnection|Took 14ms to git status
+2015-11-09 14:31:41.2611|INFO|thread:32|ConcurrentRepositoryConnection|Took 14ms to git status and parse output
+2015-11-09 14:31:41.2611|INFO|thread:32|NewCommitViewModel|Took 30ms to load files for C:\Users\Alan\AppData\Local\GitHub\TutorialRepository_fdbf2020839cde135ff9dbed7d503f8e03fa3ab4\new-repo
+2015-11-09 14:31:41.2611|INFO|thread:32|AsyncReaderWriterLock|Released concurrent scheduler for operation: 36 at GitClient.cs:288 after blocking 0.030578s
+2015-11-09 14:31:41.3601|INFO|thread: 1|AsyncReaderWriterLock|Acquiring concurrent scheduler for operation 38 at BranchSynchronizer.cs:126
+2015-11-09 14:31:41.3601|INFO|thread:30|AsyncReaderWriterLock|Acquired concurrent scheduler for operation: 38 at BranchSynchronizer.cs:126 after waiting 3.8E-05s
+2015-11-09 14:31:41.3601|INFO|thread: 1|AsyncReaderWriterLock|Acquiring concurrent scheduler for operation 39 at GitClient.cs:610
+2015-11-09 14:31:41.3601|INFO|thread:23|AsyncReaderWriterLock|Acquired concurrent scheduler for operation: 39 at GitClient.cs:610 after waiting 1.79E-05s
+2015-11-09 14:31:41.3601|INFO|thread:27|ConcurrentRepositoryConnection|branch stats: remote not found for master
+2015-11-09 14:31:41.3601|INFO|thread:27|AsyncReaderWriterLock|Released concurrent scheduler for operation: 38 at BranchSynchronizer.cs:126 after blocking 0.0021053s
+2015-11-09 14:31:41.3601|INFO|thread:29|AsyncReaderWriterLock|Released concurrent scheduler for operation: 39 at GitClient.cs:610 after blocking 0.0022588s
+2015-11-09 14:31:41.7272|INFO|thread: 1|NewCommitViewModel|Took 450ms to render file list for C:\Users\Alan\AppData\Local\GitHub\TutorialRepository_fdbf2020839cde135ff9dbed7d503f8e03fa3ab4\new-repo
+2015-11-09 14:31:41.7272|INFO|thread: 1|AsyncReaderWriterLock|Acquiring concurrent scheduler for operation 40 at RepositoryViewModel.cs:325
+2015-11-09 14:31:41.7272|INFO|thread:18|AsyncReaderWriterLock|Acquired concurrent scheduler for operation: 40 at RepositoryViewModel.cs:325 after waiting 3.03E-05s
+2015-11-09 14:31:41.7322|INFO|thread:23|AsyncReaderWriterLock|Released concurrent scheduler for operation: 40 at RepositoryViewModel.cs:325 after blocking 0.0040335s
+2015-11-09 14:31:55.9020|INFO|thread:30|AsyncReaderWriterLock|Acquiring concurrent scheduler for operation 41 at GitClient.cs:211
+2015-11-09 14:31:55.9020|INFO|thread:29|AsyncReaderWriterLock|Acquired concurrent scheduler for operation: 41 at GitClient.cs:211 after waiting 0.0020723s
+2015-11-09 14:31:55.9020|INFO|thread:30|AsyncReaderWriterLock|Acquiring concurrent scheduler for operation 42 at GitClient.cs:134
+2015-11-09 14:31:55.9020|INFO|thread:30|AsyncReaderWriterLock|Acquired concurrent scheduler for operation: 42 at GitClient.cs:134 after waiting 0.0001334s
+2015-11-09 14:31:55.9120|INFO|thread:30|GitEnvironment|Process set up with this SSH Agent info: 5524:/tmp/ssh-lJ8C7vj8XHRK/agent.5484
+2015-11-09 14:31:55.9120|INFO|thread:30|GitEnvironment|PATH is C:\Users\Alan\AppData\Local\GitHub\PortableGit_c2ba306e536fdf878271f7fe636a147ff37326ad\cmd;C:\Users\Alan\AppData\Local\GitHub\PortableGit_c2ba306e536fdf878271f7fe636a147ff37326ad\bin;C:\Users\Alan\AppData\Local\Apps\2.0\2NABO2ZE.3AC\NTXZHH3J.VLB\gith..tion_317444273a93ac29_0003.0000_12384c781d7f8ad4;C:\Users\Alan\AppData\Local\GitHub\lfs-amd64_1.0.2;C:\Program Files (x86)\MSBuild\12.0\bin;C:\Windows\System32
+2015-11-09 14:31:55.9120|INFO|thread:30|ProcessWrapper|Starting: Process - FileName: 'C:\Users\Alan\AppData\Local\GitHub\PortableGit_c2ba306e536fdf878271f7fe636a147ff37326ad\bin\git.exe', Args: 'log -g --abbrev-commit --pretty=oneline HEAD -n 2500 ', Working Directory: C:\Users\Alan\AppData\Local\GitHub\TutorialRepository_fdbf2020839cde135ff9dbed7d503f8e03fa3ab4\new-repo\
+2015-11-09 14:31:55.9120|INFO|thread:26|AsyncReaderWriterLock|Released concurrent scheduler for operation: 41 at GitClient.cs:211 after blocking 0.0122773s
+2015-11-09 14:31:55.9320|INFO|thread:14|AsyncReaderWriterLock|Released concurrent scheduler for operation: 42 at GitClient.cs:134 after blocking 0.027809s
+2015-11-09 14:32:06.6786|INFO|thread: 1|DashboardViewModel|Received request to clone: 'https://github.com/Jiggles-PR/Bulbulator.git'
+2015-11-09 14:32:15.1561|INFO|thread: 1|RepositoryModel|Cloning repo https://github.com/Jiggles-PR/Bulbulator.git
+2015-11-09 14:32:15.1561|INFO|thread: 1|GitLfsSmudgeTail|Setting Git LFS smudge progress environment variable
+2015-11-09 14:32:15.1561|INFO|thread: 1|RepositoryModel|Cloning 'https://github.com/Jiggles-PR/Bulbulator.git' to 'Bulbulator' in directory 'C:\Users\Alan\Desktop
+2015-11-09 14:32:15.1601|INFO|thread: 1|GitEnvironment|Process set up with this SSH Agent info: 5524:/tmp/ssh-lJ8C7vj8XHRK/agent.5484
+2015-11-09 14:32:15.1601|INFO|thread: 1|GitEnvironment|PATH is C:\Users\Alan\AppData\Local\GitHub\PortableGit_c2ba306e536fdf878271f7fe636a147ff37326ad\cmd;C:\Users\Alan\AppData\Local\GitHub\PortableGit_c2ba306e536fdf878271f7fe636a147ff37326ad\bin;C:\Users\Alan\AppData\Local\Apps\2.0\2NABO2ZE.3AC\NTXZHH3J.VLB\gith..tion_317444273a93ac29_0003.0000_12384c781d7f8ad4;C:\Users\Alan\AppData\Local\GitHub\lfs-amd64_1.0.2;C:\Program Files (x86)\MSBuild\12.0\bin;C:\Windows\System32
+2015-11-09 14:32:15.1601|INFO|thread: 1|ProcessWrapper|Starting: Process - FileName: 'C:\Users\Alan\AppData\Local\GitHub\PortableGit_c2ba306e536fdf878271f7fe636a147ff37326ad\bin\git.exe', Args: 'clone --progress --recursive  --  "https://github.com/Jiggles-PR/Bulbulator.git" "Bulbulator" ', Working Directory: C:\Users\Alan\Desktop
+2015-11-09 14:32:15.1601|INFO|thread:12|DashboardViewModel|Selected repository 'Jiggles-PR/Bulbulator'
+2015-11-09 14:32:15.3671|INFO|thread:12|DashboardViewModel|Took 0ms to Create RepositoryViewModel for location C:\Users\Alan\Desktop\Bulbulator
+2015-11-09 14:32:15.8751|INFO|thread:27|BackgroundFetcher|Got a refresh period for Jiggles-PR/Bulbulator of 300 seconds
+2015-11-09 14:32:15.8751|INFO|thread:27|BackgroundFetcher|Added a delay for Jiggles-PR/Bulbulator of 19643 milliseconds
+2015-11-09 14:32:15.9331|ERROR|thread:19|ComparisonGraph|JavaScript Alert from the comparison graph: http://github-app/: TypeError: Cannot read property 'selectCommit' of null
+2015-11-09 14:32:17.6052|INFO|thread: 8|GitLfsSmudgeTail|Cleaning up Git LFS smudge progress environment variable
+2015-11-09 14:32:17.6142|WARN|thread: 1|StandardUserErrors|Showing user error Please check your log file for more details, or email support if you are still having problems.
+GitHub.IO.ProcessException: Cloning into 'Bulbulator'...
+remote: Counting objects: 82, done.[K
+remote: Compressing objects:  33% (1/3)   [K
+remote: Compressing objects:  66% (2/3)   [K
+remote: Compressing objects: 100% (3/3)   [K
+remote: Compressing objects: 100% (3/3), done.[K
+remote: Total 82 (delta 3), reused 3 (delta 3), pack-reused 76[K
+Checking connectivity... done.
+git: 'submodule' is not a git command. See 'git --help'.
+2015-11-09 14:32:17.6142|INFO|thread:12|DashboardViewModel|Selected repository '/Tutorial'
+2015-11-09 14:32:17.6282|INFO|thread: 1|AsyncReaderWriterLock|Acquiring concurrent scheduler for operation 43 at GitClient.cs:199
+2015-11-09 14:32:17.6282|INFO|thread:27|AsyncReaderWriterLock|Acquired concurrent scheduler for operation: 43 at GitClient.cs:199 after waiting 2.82E-05s
+2015-11-09 14:32:17.6282|INFO|thread: 1|AsyncReaderWriterLock|Acquiring concurrent scheduler for operation 44 at RepositoryModel.cs:596
+2015-11-09 14:32:17.6282|INFO|thread:29|AsyncReaderWriterLock|Acquired concurrent scheduler for operation: 44 at RepositoryModel.cs:596 after waiting 1.45E-05s
+2015-11-09 14:32:17.6282|INFO|thread: 8|AsyncReaderWriterLock|Acquiring concurrent scheduler for operation 45 at GitClient.cs:288
+2015-11-09 14:32:17.6282|INFO|thread:31|AsyncReaderWriterLock|Acquired concurrent scheduler for operation: 45 at GitClient.cs:288 after waiting 2.18E-05s
+2015-11-09 14:32:17.6282|INFO|thread: 8|AsyncReaderWriterLock|Acquiring concurrent scheduler for operation 46 at BranchSynchronizer.cs:126
+2015-11-09 14:32:17.6282|INFO|thread: 8|AsyncReaderWriterLock|Released concurrent scheduler for operation: 44 at RepositoryModel.cs:596 after blocking 0.0043457s
+2015-11-09 14:32:17.6282|INFO|thread: 8|AsyncReaderWriterLock|Acquired concurrent scheduler for operation: 46 at BranchSynchronizer.cs:126 after waiting 0.0001719s
+2015-11-09 14:32:17.6282|INFO|thread: 8|ConcurrentRepositoryConnection|branch stats: remote not found for master
+2015-11-09 14:32:17.6282|INFO|thread: 8|AsyncReaderWriterLock|Released concurrent scheduler for operation: 46 at BranchSynchronizer.cs:126 after blocking 0.0026347s
+2015-11-09 14:32:17.6282|INFO|thread: 5|AsyncReaderWriterLock|Released concurrent scheduler for operation: 43 at GitClient.cs:199 after blocking 0.0076805s
+2015-11-09 14:32:17.6282|INFO|thread:26|GitEnvironment|Process set up with this SSH Agent info: 5524:/tmp/ssh-lJ8C7vj8XHRK/agent.5484
+2015-11-09 14:32:17.6282|INFO|thread:26|GitEnvironment|PATH is C:\Users\Alan\AppData\Local\GitHub\PortableGit_c2ba306e536fdf878271f7fe636a147ff37326ad\cmd;C:\Users\Alan\AppData\Local\GitHub\PortableGit_c2ba306e536fdf878271f7fe636a147ff37326ad\bin;C:\Users\Alan\AppData\Local\Apps\2.0\2NABO2ZE.3AC\NTXZHH3J.VLB\gith..tion_317444273a93ac29_0003.0000_12384c781d7f8ad4;C:\Users\Alan\AppData\Local\GitHub\lfs-amd64_1.0.2;C:\Program Files (x86)\MSBuild\12.0\bin;C:\Windows\System32
+2015-11-09 14:32:17.6282|INFO|thread:26|ProcessWrapper|Starting: Process - FileName: 'C:\Users\Alan\AppData\Local\GitHub\PortableGit_c2ba306e536fdf878271f7fe636a147ff37326ad\bin\git.exe', Args: 'status --untracked-files=all --porcelain -z ', Working Directory: C:\Users\Alan\AppData\Local\GitHub\TutorialRepository_fdbf2020839cde135ff9dbed7d503f8e03fa3ab4\new-repo\
+2015-11-09 14:32:17.6542|INFO|thread:18|ConcurrentRepositoryConnection|Took 13ms to git status
+2015-11-09 14:32:17.6542|INFO|thread:18|ConcurrentRepositoryConnection|Took 14ms to git status and parse output
+2015-11-09 14:32:17.6562|INFO|thread:18|NewCommitViewModel|Took 23ms to load files for C:\Users\Alan\AppData\Local\GitHub\TutorialRepository_fdbf2020839cde135ff9dbed7d503f8e03fa3ab4\new-repo
+2015-11-09 14:32:17.6562|INFO|thread:18|AsyncReaderWriterLock|Released concurrent scheduler for operation: 45 at GitClient.cs:288 after blocking 0.0232699s
+2015-11-09 14:32:17.7922|INFO|thread: 1|AsyncReaderWriterLock|Acquiring concurrent scheduler for operation 47 at BranchSynchronizer.cs:126
+2015-11-09 14:32:17.7922|INFO|thread:30|AsyncReaderWriterLock|Acquired concurrent scheduler for operation: 47 at BranchSynchronizer.cs:126 after waiting 3.07E-05s
+2015-11-09 14:32:17.7922|INFO|thread: 1|AsyncReaderWriterLock|Acquiring concurrent scheduler for operation 48 at GitClient.cs:610
+2015-11-09 14:32:17.7922|INFO|thread:14|AsyncReaderWriterLock|Acquired concurrent scheduler for operation: 48 at GitClient.cs:610 after waiting 2.22E-05s
+2015-11-09 14:32:17.7922|INFO|thread:31|ConcurrentRepositoryConnection|branch stats: remote not found for master
+2015-11-09 14:32:17.7922|INFO|thread:31|AsyncReaderWriterLock|Released concurrent scheduler for operation: 47 at BranchSynchronizer.cs:126 after blocking 0.0030469s
+2015-11-09 14:32:17.7962|INFO|thread:15|AsyncReaderWriterLock|Released concurrent scheduler for operation: 48 at GitClient.cs:610 after blocking 0.0021934s
+2015-11-09 14:32:18.2942|INFO|thread: 1|NewCommitViewModel|Took 638ms to render file list for C:\Users\Alan\AppData\Local\GitHub\TutorialRepository_fdbf2020839cde135ff9dbed7d503f8e03fa3ab4\new-repo
+2015-11-09 14:32:18.2962|INFO|thread: 1|AsyncReaderWriterLock|Acquiring concurrent scheduler for operation 49 at RepositoryViewModel.cs:325
+
